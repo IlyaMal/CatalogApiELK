@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1OgaJF245um5iF96Cj6GPqDiKSjabJNMFsSuMhQnpU8=",
+  "Source": "CatalogApiELK",
+  "BasePath": "_content/CatalogApiELK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
